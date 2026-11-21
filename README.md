@@ -21,7 +21,7 @@ A free, open learning hub for becoming an **AI filmmaking engineer** — someone
 
 1. Read the [roadmap](docs/00-roadmap.md) (10 minutes) to see the whole journey: 9 stages, each ending in a checkpoint you must produce.
 2. Pick your path (learner or trainer) from the table above.
-3. Work through the topic chapters in order; each has *what it is → why it matters for AI film → core concepts → free & paid resources → one hands-on exercise → how AI helps*.
+3. **Complete beginner?** Read [11 · How AI video works](docs/11-how-ai-video-works-explained.md) first — it explains every basic idea in plain English. Then work through the topic chapters in order; each has *what it is → why it matters for AI film → core concepts → free & paid resources → one hands-on exercise → how AI helps*.
 4. Use the [prompt library](prompts/ai-video-prompt-library.md) while you practise, and the [batch script](scripts/batch_generate_videos.py) when you reach the engineering stage.
 5. Tick off the [progress checklist](learners/progress-checklist.md) every week.
 
@@ -37,18 +37,20 @@ A free, open learning hub for becoming an **AI filmmaking engineer** — someone
 | 02 | [Cinematography & visual language](docs/02-cinematography-visual-language.md) | Shot sizes, lenses, light, colour, camera moves |
 | 03 | [Production, directing & sound](docs/03-production-directing-sound.md) | Directing AI performance, voice, SFX, music |
 | 04 | [Post-production: editing & colour](docs/04-post-production-editing-color.md) | DaVinci Resolve, matching models, finishing |
-| 05 | [AI filmmaking tools & costs](docs/05-ai-filmmaking-tools.md) | 41 tools priced, 3 budget stacks, hardware |
+| 05 | [AI filmmaking tools & costs](docs/05-ai-filmmaking-tools.md) | 66 tools priced (video, image, voice, music, 3D/mocap, storyboarding, editing), 3 budget stacks, hardware |
 | 06 | [AI engineer technical skills](docs/06-ai-engineer-technical-skills.md) | Prompt systems, consistency/LoRA, ComfyUI, Python, APIs, GPUs, FFmpeg, Git, agentic pipelines |
 | 07 | [AI film workflow, step by step](docs/07-ai-film-workflow-step-by-step.md) | The 12-step pipeline from idea to release |
 | 08 | [Legal, ethics & copyright](docs/08-legal-ethics-copyright.md) | US Copyright Office guidance, licences, consent |
 | 09 | [Career, portfolio & festivals](docs/09-career-portfolio-festivals.md) | Portfolio, festivals, getting paid |
 | 10 | [Glossary](docs/10-glossary.md) | Every term in plain English |
+| 11 | [How AI video actually works (beginner explainer)](docs/11-how-ai-video-works-explained.md) | Models, diffusion, prompts, seeds, credits, fps, why faces drift, lip-sync, voice cloning, open weights |
+| 12 | [Tool-by-tool beginner guide](docs/12-tool-by-tool-guide.md) | For every tool category: what it is, when to use it, how to start, tips, pitfalls |
 
 ### For trainers (`trainers/`)
 - [12-week course syllabus](trainers/course-syllabus-12-weeks.md)
 - [Lesson plans (weeks 1–12)](trainers/lesson-plans.md)
 - [Assignments & grading rubrics](trainers/assignments-and-rubrics.md)
-- [Quizzes with answer keys (8 modules × 10 questions)](trainers/quizzes-with-answers.md)
+- [Quizzes with answer keys (9 modules × 10 questions)](trainers/quizzes-with-answers.md)
 
 ### For learners (`learners/`)
 - [90-day self-study plan (day by day)](learners/90-day-self-study-plan.md)

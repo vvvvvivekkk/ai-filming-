@@ -46,6 +46,8 @@ PARTS = [
         "docs/08-legal-ethics-copyright.md",
         "docs/09-career-portfolio-festivals.md",
         "docs/10-glossary.md",
+        "docs/11-how-ai-video-works-explained.md",
+        "docs/12-tool-by-tool-guide.md",
     ]),
     ("Part II · For Trainers", [
         "trainers/course-syllabus-12-weeks.md",

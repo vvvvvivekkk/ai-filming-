@@ -32,7 +32,7 @@ Before using any output in paid work, check (and screenshot the terms with the d
 
 1. **Plan level** — free tiers usually forbid commercial use (e.g. ElevenLabs free has no commercial licence; Suno free songs are non-commercial; Kling/Luma/Pika free outputs are for testing).
 2. **Revenue thresholds** — Midjourney requires Pro or Mega for companies earning over $1M/year; Stability AI's Community Licence is free for organisations under $1M/year; Topaz Studio allows only limited commercial use for organisations under $1M revenue (Studio Pro has full commercial use).
-3. **Downloads** — Suno now limits commercial use to downloaded songs within a monthly allowance; Udio downloads are disabled (verify).
+3. **Downloads** — Suno now limits commercial use to downloaded songs within a monthly allowance; Udio downloads have been disabled since 17 February 2026 (Udio help centre).
 4. **Open-weight licences** — Wan 2.2 is Apache-2.0 (permissive). FLUX.2 [dev] weights are non-commercial. LTX-2 uses a community licence with separate commercial terms. "Open" does not always mean "free for business".
 5. **Training on your uploads** — does the tool use your images/footage to train? Many let you opt out on paid tiers.
 6. **Indemnity** — some enterprise plans (e.g. Adobe Firefly enterprise offerings) promise legal protection; most consumer plans do not.

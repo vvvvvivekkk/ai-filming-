@@ -57,3 +57,29 @@ Krea pricing,Pricing page,Tools,Free/Paid,Basic $9/mo,https://www.krea.ai/pricin
 Black Forest Labs pricing,Docs,Tools,Pay per use,1 credit = $0.01,https://docs.bfl.ai/quick_start/pricing,2026-11-21,
 OpenAI API pricing,Docs,Tools,Pay per use,token-based,https://developers.openai.com/api/docs/pricing,2026-11-21,
 Wise USD-INR rate,Exchange rate,Data,Free,1 USD = ₹94.85,https://wise.com/in/currency-converter/usd-to-inr-rate,2026-11-21,"Mid-market rate used throughout"
+Leonardo AI pricing,Tool,Image generation,Free + paid,Free; from $12/mo,https://leonardo.ai/pricing,2026-11-21,Tokens-based plans
+Ideogram pricing,Tool,Image generation (text in images),Free + paid,Free; from $20/mo,https://ideogram.ai/pricing,2026-11-21,Best for readable text
+Recraft pricing,Tool,Image/vector generation,Free + paid,Free; from $12/mo,https://www.recraft.ai/pricing,2026-11-21,Free outputs owned by Recraft
+Vidu pricing,Tool,Video generation,Paid,From $10/mo,https://www.vidu.com/pricing,2026-11-21,No refunds
+PixVerse plans,Tool,Video generation,Free + paid,Free; from $10/mo,https://app.pixverse.ai/subscribe,2026-11-21,"Free = watermark, 540p"
+Moonvalley (Marey),Tool,Video generation (licensed data),Paid,No public price (verify),https://www.moonvalley.com/,2026-11-21,Licensed training data
+Grok Imagine video docs (xAI),Docs,Video generation API,Paid,$0.05–$0.25/s,https://docs.x.ai/docs/models/grok-imagine-video,2026-11-21,API pricing
+LTX Studio pricing,Tool,Storyboard + video,Free + paid,Free; from $15/mo,https://ltx.io/studio/pricing,2026-11-21,Commercial from Standard
+Hedra pricing,Tool,Talking characters,Paid,From $20/mo,https://www.hedra.com/play/pricing,2026-11-21,Repriced Sep 2026
+sync.so pricing,Tool,Lip-sync,Paid,$5/mo + usage,https://sync.so/pricing,2026-11-21,Per-second billing
+Viggle pricing,Tool,Motion transfer,Free + paid,Free; Pro $7.99/mo,https://viggle.ai/pricing,2026-11-21,Free has watermark
+Autodesk Flow Studio plans,Tool,AI mocap / CG characters,Free + paid,Free; paid tiers (verify),https://www.autodesk.com/products/flow-studio/compare,2026-11-21,Formerly Wonder Studio
+Move AI pricing,Tool,Markerless motion capture,Free + paid,Move One from $15/mo,https://www.move.ai/pricing,2026-11-21,iPhone app
+Meshy pricing,Tool,Text/image-to-3D,Free + paid,Free; from $20/mo,https://www.meshy.ai/pricing,2026-11-21,Free outputs CC BY 4.0
+Blender licence,Tool,3D software,Free,$0,https://www.blender.org/about/license/,2026-11-21,GPL; your work is yours
+Unreal Engine licence,Tool,Real-time 3D engine,Free,$0 under $1M revenue,https://www.unrealengine.com/en-US/license,2026-11-21,Seat licence $1,850/yr above $1M revenue
+AIVA,Tool,AI music composition,Free + paid,Free; €11/€33 per month billed yearly,https://www.aiva.ai/,2026-11-21,Copyright depends on plan
+Stable Audio pricing,Tool,AI music & SFX,Free + paid,Free; from $12/mo,https://stableaudio.com/pricing,2026-11-21,Free tier has commercial licence
+Epidemic Sound pricing,Library,Licensed music & SFX,Paid,From $9.99/mo (yearly),https://www.epidemicsound.com/pricing,2026-11-21,Plan defines licence
+Artlist pricing,Library,"Licensed music, SFX, footage",Paid,From $9.99/mo (yearly),https://artlist.io/page/pricing,2026-11-21,Social vs Pro licence
+Final Draft pricing,Tool,Screenwriting,Paid,$249.99 one-time,https://www.finaldraft.com/pricing,2026-11-21,Industry standard
+WriterDuet,Tool,Screenwriting,Free + paid,Free 3 scripts,https://www.writerduet.com/,2026-11-21,Real-time co-writing
+Boords pricing,Tool,Storyboarding/animatics,Free + paid,Free; from $39/mo,https://boords.com/pricing,2026-11-21,Watermarked free PDFs
+OpusClip pricing,Tool,Short-clip editing,Free + paid,Free; from $15/mo,https://www.opus.pro/pricing,2026-11-21,Free clips expire in 3 days
+Adobe Podcast plans,Tool,Speech enhancement,Free + paid,Free 1 hr/day,https://podcast.adobe.com/en/plans,2026-11-21,Premium via Firefly plans
+Hugging Face Diffusers docs,Docs,How diffusion models work,Free,$0,https://huggingface.co/docs/diffusers/index,2026-11-21,Beginner-friendly
