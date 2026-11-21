@@ -1,0 +1,59 @@
+Resource,Type,Topic,Free or paid,Cost (checked 2026-11-21),URL,Link checked,Notes
+StudioBinder Online Film School,Course,Filmmaking craft,Free,$0,https://studiobinder.com/online-film-school,2026-11-21,"Free video master classes on filmmaking and cinematography"
+StudioBinder screenwriting app & blog,Tool/Blog,Screenwriting,Free,$0,https://www.studiobinder.com/blog/screenwriting,2026-11-21,"Page is StudioBinder's free screenwriting app page"
+StudioBinder – Best cinematography online courses,Article,Cinematography,Free (lists paid courses),$0,https://www.studiobinder.com/blog/best-cinematography-online-course/,2026-11-21,"Lists Udemy $94.99, Skillshare ~$18/mo, LinkedIn Learning ~$19.99/mo"
+FutureLearn filmmaking collection,Courses,Filmmaking,Free to start,$0 (upgrades extra),https://www.futurelearn.com/courses/collections/filmmaking,2026-11-21,"Courses from BFI, NFTS, The Production Guild"
+DaVinci Resolve official training,Course/Books,Editing/colour/audio/VFX,Free videos; books PDF/print,$0,https://www.blackmagicdesign.com/products/davinciresolve/training,2026-11-21,"Beginner's, Editor's, Colorist, Fairlight, VFX guides for Resolve 20"
+DaVinci Resolve,Software,Editing,Free / Studio paid,Free; Studio $295 one-time,https://www.blackmagicdesign.com/products/davinciresolve,2026-11-21,"Studio seen at $236 on sale"
+Runway AI Film Festival 2024,Festival,Career,Free to view,$0,https://aif.runwayml.com/2024,2026-11-21,"2024 edition page; check site for current edition"
+US Copyright Office – AI Report Part 2 announcement,Official report,Legal,Free,$0,https://www.copyright.gov/newsnet/2025/1060.html,2026-11-21,"29 Jan 2025: prompts alone insufficient for copyright"
+US Copyright Office – AI hub,Official report,Legal,Free,$0,https://www.copyright.gov/ai/,2026-11-21,"Parts 1-3 of AI report"
+Curious Refuge – AI Filmmaking course,Course,AI filmmaking,Paid,$749 one-time; membership ~$149/mo (verify),https://curiousrefuge.com/ai-filmmaking,2026-11-21,"Monthly enrollment windows"
+Curious Refuge – Hybrid AI Filmmaking,Course,Hybrid production,Paid,$749,https://curiousrefuge.com/hybrid-ai-filmmaking,2026-11-21,
+Udemy – AI 3D Filmmaking for Beginners (Nikhil Kumar),Course,AI filmmaking,Paid,Varies with Udemy sales (verify),https://www.udemy.com/course/artificial-intelligence-filmmaking-for-beginners/,2026-11-21,"Page title now 'AI 3D Filmmaking for Beginners - With Free Tools'"
+Sundance Collab – Navigating AI in Filmmaking,Course,AI filmmaking,Paid (verify),Check page,https://collab.sundance.org/catalog/Navigating-AI-in-Filmmaking-On-Demand,2026-11-21,"Beginner on-demand"
+Hugging Face Diffusion Models Course,Course,AI engineering,Free,$0,https://huggingface.co/learn/diffusion-course,2026-11-21,
+ComfyUI official docs,Docs,AI engineering,Free,$0,https://docs.comfy.org/,2026-11-21,
+ComfyUI GitHub,Software,AI engineering,Free (GPL-3.0),$0,https://github.com/Comfy-Org/ComfyUI,2026-11-21,
+Wan 2.2 GitHub,Model,Open video model,Free (Apache-2.0),$0,https://github.com/Wan-Video/Wan2.2,2026-11-21,"5B: >=24GB official script; 14B: >=80GB unquantized"
+LTX-Video GitHub,Model,Open video model,Free (community licence),$0,https://github.com/Lightricks/LTX-Video,2026-11-21,"LTX-2.5 latest (Aug 2026)"
+Stability AI licence,Licence,Legal/open models,Free under $1M revenue,$0,https://stability.ai/license,2026-11-21,
+FFmpeg documentation,Docs,Engineering,Free,$0,https://ffmpeg.org/documentation.html,2026-11-21,
+Git LFS,Software,Engineering,Free,$0,https://git-lfs.com/,2026-11-21,
+Replicate docs,Docs/API,Engineering,Pay per use,e.g. Kling v2.0 $0.28/s,https://replicate.com/docs,2026-11-21,
+fal.ai pricing,API,Engineering,Pay per use,Wan 2.5 $0.05/s; Kling 2.5 Turbo Pro $0.07/s,https://fal.ai/pricing,2026-11-21,
+Runway API pricing,API,Engineering,Pay per use,$0.01/credit; Gen-4 Turbo 5 cr/s; Gen-4.5 12 cr/s,https://docs.dev.runwayml.com/guides/pricing/,2026-11-21,
+Gemini API pricing,API,Engineering,Pay per use,Veo 3.1 Lite $0.05/s; Fast $0.10/s; Standard $0.40/s,https://ai.google.dev/gemini-api/docs/pricing,2026-11-21,
+Gemini API video docs,Docs,Engineering,Free,$0,https://ai.google.dev/gemini-api/docs/video,2026-11-21,"Notes Veo 3.1 Preview shut down; Gemini Omni Flash replacement"
+RunPod pricing,Cloud GPU,Engineering,Pay per use,RTX 4090 from $0.34/hr,https://www.runpod.io/pricing,2026-11-21,
+Google Colab,Cloud notebooks,Engineering,Free / Pro $9.99/mo,$0+,https://colab.research.google.com/,2026-11-21,
+FilmFreeway,Festival platform,Career,Free to browse; fees per festival,Varies,https://filmfreeway.com/,2026-11-21,
+OpenAI Sora discontinuation notice,Official help,Tools,Free,$0,https://help.openai.com/en/articles/20001152,2026-11-21,"App/web shut 26 Apr 2026; API 24 Sep 2026"
+Claude pricing,Pricing page,Tools,Free/Paid,Pro $20/mo,https://claude.com/pricing,2026-11-21,
+ChatGPT pricing,Pricing page,Tools,Free/Paid,Go $8; Plus $20,https://chatgpt.com/pricing,2026-11-21,"Page did not render amounts; figures from dated reports"
+Google AI plans,Pricing page,Tools,Free/Paid,AI Pro $19.99,https://one.google.com/about/ai-premium/,2026-11-21,
+Google Flow pricing,Pricing page,Tools,Free/Paid,via Google AI plans,https://flow.google.com/pricing,2026-11-21,"Page content requires browser rendering"
+Midjourney plans,Docs,Tools,Paid,Basic $10/mo,https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans,2026-11-21,"Official page blocked automated fetch; prices from multiple Oct-Nov 2026 reports citing it"
+Runway pricing,Pricing page,Tools,Free/Paid,Standard $15/mo,https://runway.com/pricing,2026-11-21,
+Kling AI,Product,Tools,Free/Paid,Standard ~$10/mo (verify),https://kling.ai/,2026-11-21,"Pricing renders client-side"
+Luma pricing,Pricing page,Tools,Paid,Plus $30/mo,https://lumalabs.ai/pricing,2026-11-21,
+Hailuo AI subscribe,Pricing page,Tools,Free/Paid,Standard ~$14.99 (verify),https://hailuoai.video/subscribe,2026-11-21,"Pricing renders client-side"
+Pika pricing,Pricing page,Tools,Free/Paid,~$10/mo (verify),https://pika.art/pricing,2026-11-21,
+Higgsfield pricing,Pricing page,Tools,Free/Paid,Starter $15 (verify),https://higgsfield.ai/pricing,2026-11-21,"Pricing renders client-side"
+Dreamina (Seedance),Product,Tools,Free/Paid,verify,https://dreamina.capcut.com/,2026-11-21,
+ElevenLabs pricing,Pricing page,Tools,Free/Paid,Starter $6/mo,https://elevenlabs.io/pricing,2026-11-21,
+HeyGen pricing,Pricing page,Tools,Free/Paid,Creator $29/mo,https://www.heygen.com/pricing,2026-11-21,
+Suno pricing,Pricing page,Tools,Free/Paid,Pro $8/mo,https://suno.com/pricing,2026-11-21,
+Udio pricing,Pricing page,Tools,Free/Paid,Standard $10 (verify),https://www.udio.com/pricing,2026-11-21,"Downloads disabled per help centre (verify)"
+Soundraw pricing,Pricing page,Tools,Paid,Creator $16.99/mo,https://soundraw.io/pricing,2026-11-21,
+Topaz Labs pricing,Pricing page,Tools,Paid,Video (web) $29/mo or $299/yr; Studio $79/mo,https://www.topazlabs.com/pricing,2026-11-21,
+Adobe Premiere Pro plans,Pricing page,Tools,Paid,$22.99/mo annual,https://www.adobe.com/products/premiere/plans.html,2026-11-21,
+Adobe Firefly plans,Pricing page,Tools,Free/Paid,verify USD,https://www.adobe.com/products/firefly/plans.html,2026-11-21,
+CapCut pricing,Pricing page,Tools,Free/Paid,Standard ~$9.99; Pro $19.99,https://www.capcut.com/pricing,2026-11-21,
+Descript pricing,Pricing page,Tools,Free/Paid,Hobbyist $24/mo,https://www.descript.com/pricing,2026-11-21,
+invideo pricing,Pricing page,Tools,Paid,Starter $10/mo annual,https://invideo.io/pricing,2026-11-21,
+Magnific (formerly Freepik) pricing,Pricing page,Tools,Free/Paid,Premium $20/mo,https://www.magnific.com/pricing,2026-11-21,
+Krea pricing,Pricing page,Tools,Free/Paid,Basic $9/mo,https://www.krea.ai/pricing,2026-11-21,
+Black Forest Labs pricing,Docs,Tools,Pay per use,1 credit = $0.01,https://docs.bfl.ai/quick_start/pricing,2026-11-21,
+OpenAI API pricing,Docs,Tools,Pay per use,token-based,https://developers.openai.com/api/docs/pricing,2026-11-21,
+Wise USD-INR rate,Exchange rate,Data,Free,1 USD = ₹94.85,https://wise.com/in/currency-converter/usd-to-inr-rate,2026-11-21,"Mid-market rate used throughout"
