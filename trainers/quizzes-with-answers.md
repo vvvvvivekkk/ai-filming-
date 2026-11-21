@@ -137,3 +137,20 @@ Eight modules × 10 multiple-choice questions. Answer keys with one-line explana
 10. Runway's AI Film Festival 2024 offered: A) no prizes B) NYC and LA screenings and over $60,000 in prizes C) only online viewing D) a free GPU
 
 **Answers:** 1-B · 2-B · 3-B · 4-B · 5-A · 6-B · 7-B · 8-B · 9-A · 10-B
+
+---
+
+## Module 9 — How AI Video Works & Choosing Tools ([docs/11](../docs/11-how-ai-video-works-explained.md), [docs/12](../docs/12-tool-by-tool-guide.md))
+
+1. A diffusion model creates an image by: A) copying a stored photo B) starting from random noise and cleaning it step by step C) drawing outlines first D) searching the web
+2. "Inference" means: A) training a model B) running a finished model to get an output C) buying credits D) editing video
+3. For a narrative film, the most reliable way to keep a designed look is usually: A) text-to-video only B) image-to-video from a frame you designed C) random seeds D) the highest resolution
+4. Re-using the same seed with the same prompt and settings gives: A) a very similar result B) a completely random result C) an error D) a higher resolution
+5. "Face drift" is reduced by: A) longer clips with big head turns B) strong reference images, image-to-video and shorter clips C) lower frame rate D) adding music
+6. "Open weights" means: A) the model is always free for any commercial use B) you can download and run the model yourself, under its licence C) the company publishes its prices D) the model has no limits
+7. Which tool is designed for readable text inside images? A) Viggle B) Ideogram C) Move AI D) AIVA
+8. Viggle is mainly used for: A) screenwriting B) motion transfer from a reference video C) colour grading D) upscaling
+9. On AIVA, who owns the copyright of music made on the free plan? A) You B) AIVA C) Nobody D) YouTube
+10. Udio is not suitable for film delivery right now because: A) it costs $500 B) downloads are disabled C) it only makes SFX D) it needs a GPU
+
+**Answers:** 1-B · 2-B · 3-B · 4-A · 5-B · 6-B · 7-B · 8-B · 9-B · 10-B
