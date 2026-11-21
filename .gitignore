@@ -1,0 +1,51 @@
+# --- Secrets: never commit API keys ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials*.json
+
+# --- Large raw media & generated outputs ---
+output/
+renders/
+raw/
+*.mov
+*.mxf
+*.braw
+*.r3d
+*.wav
+*.aif
+*.aiff
+*.exr
+*.dpx
+# keep small curated media via Git LFS instead (see docs/06 §9)
+
+# --- Model weights ---
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+
+# --- Editing app caches ---
+CacheClip/
+.gallery/
+*.drp.bak
+Render Cache/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- PDF build intermediates ---
+pdf/build/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
